@@ -1,0 +1,112 @@
+.cross-upload-box-icon {
+  position: absolute;
+  top: 159px;
+  left: 868px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.upload3 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 23.5px);
+  line-height: 22px;
+}
+.approve-upload {
+  position: absolute;
+  top: 525px;
+  left: 814px;
+  border-radius: var(--br-9xs);
+  background-color: #00bdd6;
+  width: 82px;
+  height: 36px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.cancel {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 23px);
+  line-height: 22px;
+}
+.cancel-upload {
+  position: absolute;
+  top: 525px;
+  left: 725px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-300);
+  width: 81px;
+  height: 36px;
+  overflow: hidden;
+  cursor: pointer;
+  color: var(--color-lightslategray);
+}
+.upload-files {
+  position: absolute;
+  top: 159px;
+  left: 384px;
+  font-size: var(--font-size-5xl);
+  line-height: 36px;
+  font-family: var(--font-epilogue);
+  color: var(--color-gray-200);
+}
+.cloud-upload-1 {
+  position: absolute;
+  top: calc(50% - 117px);
+  left: calc(50% - 40px);
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+}
+.drop-files-here,
+.supported-format-csv {
+  position: absolute;
+  top: calc(50% + 11px);
+  left: calc(50% - 89px);
+  line-height: 26px;
+}
+.drop-files-here {
+  top: calc(50% - 31px);
+  left: calc(50% - 87px);
+  font-size: var(--font-size-5xl);
+  line-height: 36px;
+  font-family: var(--font-epilogue);
+  color: var(--color-gray-200);
+}
+.upload-box,
+.upload-file-invisible {
+  position: absolute;
+  top: 221px;
+  left: 229px;
+  background-color: var(--color-white);
+  width: 100px;
+  height: 22px;
+}
+.upload-box {
+  top: 211px;
+  left: 384px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-gray-100);
+  border: 2px dashed var(--color-silver);
+  box-sizing: border-box;
+  width: 512px;
+  height: 298px;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-slategray);
+}
+.upload2 {
+  width: 1280px;
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+  height: 720px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

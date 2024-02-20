@@ -1,0 +1,200 @@
+.edit-device-information {
+  position: absolute;
+  top: 29px;
+  left: 30px;
+  font-size: var(--font-size-13xl);
+  line-height: 48px;
+}
+.cancel-edit,
+.save-edit {
+  position: absolute;
+  top: 29px;
+  left: 1157px;
+  cursor: pointer;
+}
+.cancel-edit {
+  left: 1070px;
+}
+.device-name-edit-text {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  height: calc(100% - 24px);
+  width: calc(100% - 1px);
+  top: 23px;
+  right: 1px;
+  bottom: 1px;
+  left: 0;
+}
+.device-name3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 22px;
+}
+.date {
+  position: absolute;
+  width: calc(100% - 64px);
+  top: 250px;
+  right: 32px;
+  left: 32px;
+  background-color: var(--color-gray-300);
+  height: 59px;
+}
+.device-information2 {
+  position: absolute;
+  top: 33px;
+  left: 72px;
+  font-size: var(--font-size-lg);
+  line-height: 28px;
+  font-family: var(--font-epilogue);
+  color: var(--color-darkslategray-200);
+}
+.deviceinfo-logo-icon {
+  position: absolute;
+  top: 34px;
+  left: 32px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.note-edit-text {
+  position: absolute;
+  height: calc(100% - 24px);
+  width: calc(100% - 1px);
+  top: 23px;
+  right: 1px;
+  bottom: 1px;
+  left: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-sm);
+  color: var(--color-silver);
+}
+.note {
+  position: absolute;
+  width: calc(100% - 64px);
+  top: 345px;
+  right: 32px;
+  left: 32px;
+  background-color: var(--color-gray-300);
+  height: 142px;
+}
+.brand-textbox {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  height: calc(100% - 24px);
+  width: calc(100% - 1px);
+  top: 23px;
+  right: 1px;
+  bottom: 1px;
+  left: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.brand1 {
+  position: absolute;
+  top: 160px;
+  left: 32px;
+  background-color: var(--color-gray-300);
+  width: 336px;
+  height: 59px;
+}
+.device-information1 {
+  position: absolute;
+  top: 103px;
+  left: 22px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 400px;
+  height: 588px;
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-inter);
+}
+.warranty {
+  position: absolute;
+  width: calc(100% - 64px);
+  top: 84px;
+  right: 32px;
+  left: 32px;
+  background-color: var(--color-gray-300);
+  height: 59px;
+}
+.device-parameters2 {
+  position: absolute;
+  top: 32px;
+  left: 72px;
+  font-size: var(--font-size-lg);
+  line-height: 28px;
+  font-family: var(--font-epilogue);
+  color: var(--color-darkslategray-200);
+}
+.condition2,
+.repair3 {
+  position: absolute;
+  top: 167px;
+  left: 31px;
+  background-color: var(--color-gray-300);
+  width: 336px;
+  height: 59px;
+}
+.repair3 {
+  top: 235px;
+  left: 32px;
+}
+.device-parameters1 {
+  position: absolute;
+  top: 103px;
+  left: 442px;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 400px;
+  height: 588px;
+  color: var(--color-darkslategray-100);
+  font-family: var(--font-inter);
+}
+.acessories-included1 {
+  position: absolute;
+  top: 32px;
+  left: 72px;
+  line-height: 28px;
+}
+.accessories-text-input {
+  position: absolute;
+  top: 72px;
+  left: 24px;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-sm);
+  color: var(--color-silver);
+}
+.acessories-box,
+.edit-device {
+  background-color: var(--color-white);
+}
+.acessories-box {
+  position: absolute;
+  top: 103px;
+  left: 858px;
+  border-radius: var(--br-10xs);
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 400px;
+  height: 588px;
+  font-size: var(--font-size-lg);
+}
+.edit-device {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-epilogue);
+}

@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-epilogue: Epilogue;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-lg: 18px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fafafb;
+  --color-gray-200: #171a1f;
+  --color-gray-300: rgba(0, 0, 0, 0);
+  --color-gainsboro: #dee1e6;
+  --color-dimgray: #565e6c;
+  --color-royalblue-100: #4069e5;
+  --color-whitesmoke-100: #f3f4f6;
+  --color-lightslategray: #9095a0;
+  --color-slategray: #6e7787;
+  --color-darkslategray-100: #424955;
+  --color-darkslategray-200: #323842;
+  --color-silver: #bcc1ca;
+
+  /* Border radiuses */
+  --br-9xs: 4px;
+  --br-7xs: 6px;
+  --br-6xl: 25px;
+  --br-5xs: 8px;
+  --br-10xs: 3px;
+}

@@ -1,0 +1,94 @@
+.image-icon {
+  position: absolute;
+  top: 78px;
+  left: 63px;
+  border-radius: var(--br-5xs);
+  width: 264px;
+  height: 39px;
+  object-fit: cover;
+}
+.login-button {
+  position: absolute;
+  top: 360.5px;
+  left: 174.5px;
+  cursor: pointer;
+}
+.login {
+  position: absolute;
+  top: 15px;
+  left: 205px;
+  line-height: 30px;
+}
+.emp-area,
+.pass-area {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 143px;
+  left: 170px;
+}
+.emp-area {
+  top: 77px;
+}
+.employee-id1,
+.password {
+  position: absolute;
+  top: 86px;
+  left: 18px;
+  line-height: 30px;
+}
+.password {
+  top: 153px;
+}
+.text-input-boxes {
+  position: absolute;
+  top: 25px;
+  left: 23px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 4px 9px rgba(23, 26, 31, 0.11);
+  width: 458px;
+  height: 286px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-epilogue);
+}
+.click-here,
+.forgot-your-password {
+  position: absolute;
+  left: 18px;
+  line-height: 26px;
+}
+.forgot-your-password {
+  top: 516px;
+  color: var(--color-darkslategray-100);
+}
+.click-here {
+  cursor: pointer;
+  text-decoration: none;
+  top: 542px;
+  color: #8353e2;
+}
+.login-box-full,
+.login-page {
+  background-color: var(--color-white);
+}
+.login-box-full {
+  position: absolute;
+  top: 78px;
+  left: 384px;
+  border-radius: var(--br-5xs);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 2px 5px rgba(23, 26, 31, 0.09);
+  width: 512px;
+  height: 588px;
+}
+.login-page {
+  width: 100%;
+  position: relative;
+  box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}

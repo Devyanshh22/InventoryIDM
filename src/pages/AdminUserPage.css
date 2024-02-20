@@ -1,0 +1,428 @@
+.home2 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 22.5px);
+  line-height: 26px;
+}
+.frame96,
+.rectangle2 {
+  position: absolute;
+  left: 0;
+}
+.frame96 {
+  top: 0;
+  background-color: var(--color-gray-300);
+  width: 115px;
+  height: 55px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.rectangle2 {
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-royalblue-100);
+  height: 4px;
+}
+.users2 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 23px);
+  line-height: 26px;
+}
+.frame97 {
+  position: absolute;
+  top: 0;
+  left: 246px;
+  background-color: var(--color-gray-300);
+  width: 116px;
+  height: 55px;
+  overflow: hidden;
+  color: var(--color-royalblue-100);
+}
+.devices4 {
+  position: absolute;
+  top: calc(50% - 13px);
+  left: calc(50% - 30.5px);
+  line-height: 26px;
+}
+.frame98,
+.header-menu-12 {
+  position: absolute;
+  top: 0;
+  background-color: var(--color-gray-300);
+  height: 55px;
+}
+.frame98 {
+  left: 115px;
+  width: 131px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.header-menu-12 {
+  left: 421px;
+  width: 362px;
+}
+.logout1 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 23px);
+  line-height: 22px;
+}
+.button-12 {
+  position: absolute;
+  top: 12px;
+  left: 1154px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-royalblue-100);
+  width: 70px;
+  height: 36px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+}
+.user-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 0 2px rgba(23, 26, 31, 0.12), 0 4px 9px rgba(23, 26, 31, 0.11);
+  width: 1280px;
+  height: 60px;
+  font-size: var(--font-size-base);
+}
+.devyanshh-gupta {
+  position: absolute;
+  top: 196px;
+  left: 44px;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  font-family: var(--font-epilogue);
+  color: var(--color-royalblue-100);
+}
+.user-info-child {
+  position: absolute;
+  top: 335px;
+  left: 11px;
+  max-height: 100%;
+  width: 256px;
+}
+.admin1 {
+  position: absolute;
+  top: 229px;
+  left: 116px;
+  line-height: 22px;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 46px;
+}
+.user-pic-icon {
+  position: absolute;
+  top: 32px;
+  left: 64px;
+  border-radius: var(--br-9xs);
+  width: 140px;
+  height: 140px;
+  overflow: hidden;
+}
+.change-password {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: calc(50% - 60px);
+  line-height: 22px;
+}
+.change-pass-user,
+.logout-user-2 {
+  position: absolute;
+  top: 275px;
+  left: 43px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-royalblue-100);
+  width: 201px;
+  height: 44px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.logout-user-2 {
+  top: 359px;
+  border-radius: var(--br-5xs);
+  height: 36px;
+}
+.frame100,
+.frame101,
+.frame102,
+.frame103,
+.frame99,
+.user-info {
+  position: absolute;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.user-info {
+  top: 95px;
+  left: 30px;
+  border-radius: var(--br-7xs);
+  width: 277px;
+  height: 481px;
+  color: var(--color-white);
+}
+.frame100,
+.frame101,
+.frame102,
+.frame103,
+.frame99 {
+  height: 101.69%;
+  width: 17.17%;
+  top: -0.84%;
+  right: 82.89%;
+  bottom: -0.84%;
+  left: -0.06%;
+  overflow: hidden;
+}
+.frame100,
+.frame101,
+.frame102,
+.frame103 {
+  width: 23.15%;
+  right: 37.16%;
+  left: 39.69%;
+}
+.frame101,
+.frame102,
+.frame103 {
+  width: 22.23%;
+  right: 15.05%;
+  left: 62.72%;
+}
+.frame102,
+.frame103 {
+  width: 22.8%;
+  right: 60.2%;
+  left: 17%;
+}
+.frame103 {
+  width: 15.22%;
+  right: -0.06%;
+  left: 84.84%;
+}
+.admin-row-01,
+.admin-row-02,
+.admin-row-03,
+.admin-row-04,
+.admin-row-05,
+.admin-row-06 {
+  position: absolute;
+  height: 10.03%;
+  width: 100%;
+  top: 9.69%;
+  right: 0;
+  bottom: 80.27%;
+  left: 0;
+  background-color: var(--color-gray-300);
+}
+.admin-row-02,
+.admin-row-03,
+.admin-row-04,
+.admin-row-05,
+.admin-row-06 {
+  top: 19.73%;
+  bottom: 70.24%;
+}
+.admin-row-03,
+.admin-row-04,
+.admin-row-05,
+.admin-row-06 {
+  top: 29.76%;
+  bottom: 60.2%;
+}
+.admin-row-04,
+.admin-row-05,
+.admin-row-06 {
+  top: 39.8%;
+  bottom: 50.17%;
+}
+.admin-row-05,
+.admin-row-06 {
+  top: 49.83%;
+  bottom: 40.14%;
+}
+.admin-row-06 {
+  top: 59.86%;
+  bottom: 30.1%;
+}
+.admin-row-07 {
+  position: absolute;
+  top: 69.9%;
+  bottom: 20.07%;
+}
+.admin-row-07,
+.admin-row-8,
+.admin-row-9 {
+  height: 10.03%;
+  width: 100%;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+}
+.admin-row-8 {
+  position: absolute;
+  top: 79.93%;
+  bottom: 10.03%;
+}
+.admin-row-9 {
+  top: 89.97%;
+  bottom: 0;
+}
+.admin-row-9,
+.name,
+.name1 {
+  position: absolute;
+}
+.name1 {
+  top: calc(50% - 11px);
+  left: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 116.4px;
+}
+.name {
+  height: 101.75%;
+  width: 17.17%;
+  top: -0.87%;
+  right: 82.89%;
+  bottom: -0.87%;
+  left: -0.06%;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.termination-date {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 160.4px;
+}
+.termination {
+  position: absolute;
+  height: 101.75%;
+  width: 22.23%;
+  top: -0.87%;
+  right: 15.05%;
+  bottom: -0.87%;
+  left: 62.72%;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.employee-id2 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 165.4px;
+}
+.empid {
+  position: absolute;
+  height: 101.75%;
+  width: 22.8%;
+  top: -0.87%;
+  right: 60.2%;
+  bottom: -0.87%;
+  left: 17%;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.hire-date1 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 168.4px;
+}
+.hire-date {
+  height: 101.75%;
+  width: 23.15%;
+  top: -0.87%;
+  right: 37.16%;
+  bottom: -0.87%;
+  left: 39.69%;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.hire-date,
+.type2,
+.type3 {
+  position: absolute;
+}
+.type3 {
+  top: calc(50% - 11px);
+  left: 16px;
+  line-height: 22px;
+  font-weight: 600;
+  display: inline-block;
+  width: 99.4px;
+}
+.type2 {
+  height: 101.75%;
+  width: 15.22%;
+  top: -0.87%;
+  right: -0.06%;
+  bottom: -0.87%;
+  left: 84.84%;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.admin-user-table-header,
+.users-table {
+  position: absolute;
+  background-color: var(--color-gray-300);
+}
+.admin-user-table-header {
+  height: 9.69%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 90.31%;
+  left: 0;
+}
+.users-table {
+  top: 94.5px;
+  left: 351.5px;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 871px;
+  height: 591px;
+  overflow: hidden;
+  font-family: var(--font-epilogue);
+}
+.admin-user-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  box-shadow: 0 3px 6px rgba(18, 15, 40, 0.12);
+  height: 720px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+  font-family: var(--font-inter);
+}
